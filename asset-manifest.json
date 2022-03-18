@@ -1,0 +1,22 @@
+{
+  "files": {
+    "static/css/0.fb7cf362.chunk.css": "/efilm/static/css/0.fb7cf362.chunk.css",
+    "static/js/0.98c2f45d.chunk.js": "/efilm/static/js/0.98c2f45d.chunk.js",
+    "static/js/1.9ea7ebdc.chunk.js": "/efilm/static/js/1.9ea7ebdc.chunk.js",
+    "main.css": "/efilm/static/css/main.a683ed5e.chunk.css",
+    "main.js": "/efilm/static/js/main.c819b425.chunk.js",
+    "runtime-main.js": "/efilm/static/js/runtime-main.3cbe48df.js",
+    "static/css/4.9ec7e82d.chunk.css": "/efilm/static/css/4.9ec7e82d.chunk.css",
+    "static/js/4.f175bb29.chunk.js": "/efilm/static/js/4.f175bb29.chunk.js",
+    "index.html": "/efilm/index.html",
+    "static/js/0.98c2f45d.chunk.js.LICENSE.txt": "/efilm/static/js/0.98c2f45d.chunk.js.LICENSE.txt",
+    "static/js/4.f175bb29.chunk.js.LICENSE.txt": "/efilm/static/js/4.f175bb29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cbe48df.js",
+    "static/css/4.9ec7e82d.chunk.css",
+    "static/js/4.f175bb29.chunk.js",
+    "static/css/main.a683ed5e.chunk.css",
+    "static/js/main.c819b425.chunk.js"
+  ]
+}
